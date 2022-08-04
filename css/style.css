@@ -87,7 +87,7 @@ p {
     justify-content: center;
     padding-top:100px ;
     height: 750px;
-    background: #31344e url("img/intro_bg.jpg") center no-repeat;
+    background: #31344e url("../img/intro_bg.jpg") center no-repeat;
     background-size: cover;
     
 
